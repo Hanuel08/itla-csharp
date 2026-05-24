@@ -1,0 +1,14 @@
+/home/hanuel/RiderProjects/itla/practice-3/bin/Debug/net10.0/practice-3
+/home/hanuel/RiderProjects/itla/practice-3/bin/Debug/net10.0/practice-3.deps.json
+/home/hanuel/RiderProjects/itla/practice-3/bin/Debug/net10.0/practice-3.runtimeconfig.json
+/home/hanuel/RiderProjects/itla/practice-3/bin/Debug/net10.0/practice-3.dll
+/home/hanuel/RiderProjects/itla/practice-3/bin/Debug/net10.0/practice-3.pdb
+/home/hanuel/RiderProjects/itla/practice-3/obj/Debug/net10.0/practice-3.GeneratedMSBuildEditorConfig.editorconfig
+/home/hanuel/RiderProjects/itla/practice-3/obj/Debug/net10.0/practice-3.AssemblyInfoInputs.cache
+/home/hanuel/RiderProjects/itla/practice-3/obj/Debug/net10.0/practice-3.AssemblyInfo.cs
+/home/hanuel/RiderProjects/itla/practice-3/obj/Debug/net10.0/practice-3.csproj.CoreCompileInputs.cache
+/home/hanuel/RiderProjects/itla/practice-3/obj/Debug/net10.0/practice-3.dll
+/home/hanuel/RiderProjects/itla/practice-3/obj/Debug/net10.0/refint/practice-3.dll
+/home/hanuel/RiderProjects/itla/practice-3/obj/Debug/net10.0/practice-3.pdb
+/home/hanuel/RiderProjects/itla/practice-3/obj/Debug/net10.0/practice-3.genruntimeconfig.cache
+/home/hanuel/RiderProjects/itla/practice-3/obj/Debug/net10.0/ref/practice-3.dll
