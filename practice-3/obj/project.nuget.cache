@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "v2hgxj3vbrA=",
+  "dgSpecHash": "IwDDUrc6JgI=",
   "success": true,
   "projectFilePath": "/home/hanuel/RiderProjects/itla/practice-3/practice-3.csproj",
   "expectedPackageFiles": [
-    "/home/hanuel/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+    "/home/hanuel/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.8/microsoft.aspnetcore.app.ref.10.0.8.nupkg.sha512"
   ],
   "logs": []
 }

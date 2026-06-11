@@ -12,3 +12,4 @@
 /home/hanuel/RiderProjects/itla/practice-3/obj/Debug/net10.0/practice-3.pdb
 /home/hanuel/RiderProjects/itla/practice-3/obj/Debug/net10.0/practice-3.genruntimeconfig.cache
 /home/hanuel/RiderProjects/itla/practice-3/obj/Debug/net10.0/ref/practice-3.dll
+/home/hanuel/RiderProjects/itla/practice-3/obj/Debug/net10.0/practice-3.sourcelink.json
