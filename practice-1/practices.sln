@@ -1,8 +1,8 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice-1", "practice-1\practice-1.csproj", "{D8D65830-407F-4328-B63E-4E67BF6426D2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice-1", "practice-1.csproj", "{D8D65830-407F-4328-B63E-4E67BF6426D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice-2", "..\practice-2\practice-2\practice-2.csproj", "{CBA74876-05B5-4CCC-B47F-09B73788A431}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice-2", "..\practice-2\practice-2.csproj", "{CBA74876-05B5-4CCC-B47F-09B73788A431}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice-3", "..\practice-3\practice-3.csproj", "{862AB53F-0934-48F4-A7A5-5D2A46122371}"
 EndProject
